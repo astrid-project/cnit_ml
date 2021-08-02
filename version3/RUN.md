@@ -1,3 +1,5 @@
+# Steps for RUN
+
 1. Download Friday-WorkingHours.pcap. from: http://205.174.165.80/CICDataset/CIC-IDS-2017/Dataset/PCAPs.
 
 2. The DDoS LOIC attack is at (15:56 – 16:16) according to the documentation:  https://www.unb.ca/cic/datasets/ids-2017.html.
